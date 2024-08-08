@@ -1186,7 +1186,7 @@
   /* SECTION 6 */
 
   #section6 {
-    height: 280vh;
+    height: 300vh;
     width: 100%;
   }
 
@@ -1196,7 +1196,7 @@
 
   .card {
     height: 40vh;
-    top: 15%;
+    top: 0%;
   }
 
   .card-content {

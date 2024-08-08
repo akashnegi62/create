@@ -422,7 +422,7 @@ function menubtn() {
 
       flag = 1;
     } else {
-      menuW.style.top = "-100%";
+      menuW.style.top = "-200%";
       menu.style.backgroundColor = "";
       flag = 0;
     }
@@ -431,7 +431,7 @@ function menubtn() {
   let menuCA = document.querySelectorAll(".menu-content a");
   menuCA.forEach((elem) => {
     elem.addEventListener("click", function () {
-      menuW.style.top = "-100%";
+      menuW.style.top = "-200%";
       menu.style.backgroundColor = "";
       flag = 0;
     });
