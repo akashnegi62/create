@@ -643,6 +643,11 @@
     margin: 5vw 5vw 5vw 6vw;
   }
 
+  .basic-btn::after {
+    top: -700%;
+    left: -16%;
+  }
+
   hr {
     width: 80vw;
     margin: auto;
@@ -698,6 +703,11 @@
     font-size: 4.5vw;
     border-radius: 2vw;
     margin: 5vw 5vw 5vw 5.5vw;
+  }
+
+  .growth-btn::after {
+    top: -700%;
+    left: -16%;
   }
 
   .growth p {
@@ -902,6 +912,11 @@
     font-size: 5vw;
     font-weight: 500;
     position: relative;
+  }
+
+  .foo-btn button::after{
+    top: -700%;
+    left: -24%;
   }
 
   .footer-end {

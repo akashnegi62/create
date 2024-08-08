@@ -1099,7 +1099,7 @@ span {
   overflow: hidden;
 }
 
-.basic-btn::after {
+ .basic-btn::after{
   content: "";
   position: absolute;
   top: -900%;
